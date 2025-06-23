@@ -43,7 +43,9 @@
 This feedback collection system solves the common problem of slow, synchronous feedback forms. By leveraging **Celery** and **Redis** for asynchronous processing, your application stays fast and responsive while handling feedback submissions and notifications in the background.
 
 <div align="center">
-<img src="images/admin-dashboard.png" alt="Django Admin Dashboard" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px;"/>
+<img src="Screenshot 2025-06-23 210815.png" alt="Django Admin Dashboard" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px;"/>
+<img src="Screenshot 2025-06-23 210838.png" alt="Django Admin Dashboard" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px;"/>
+<img src="Screenshot 2025-06-23 211046.png" alt="Django Admin Dashboard" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px;"/>
 <p><em>Clean and intuitive Django Admin interface for managing feedback</em></p>
 </div>
 
@@ -251,8 +253,8 @@ TELEGRAM_BOT_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
 ## 🔌 API Documentation
 
 <div align="center">
-<img src="images/api-testing.png" alt="API Testing with Postman" width="700" style="border-radius: 8px; margin: 15px 0;"/>
-<p><em>Testing the API endpoints with Postman</em></p>
+<img src="Screenshot 2025-06-23 212859.png" alt="API Testing with Postman" width="700" style="border-radius: 8px; margin: 15px 0;"/>
+<p><em>Using The Database as supabase</em></p>
 </div>
 
 ### Authentication
@@ -305,7 +307,7 @@ curl -X POST http://127.0.0.1:8000/api/feedback/ \
 ## 🤖 Telegram Bot
 
 <div align="center">
-<img src="images/telegram-bot-chat.png" alt="Telegram Bot Conversation" width="500" style="border-radius: 8px; margin: 15px 0;"/>
+<img src="Screenshot 2025-06-23 211031.png" alt="Telegram Bot Conversation" width="500" style="border-radius: 8px; margin: 15px 0;"/>
 <p><em>Interactive feedback submission through Telegram Bot</em></p>
 </div>
 
@@ -345,8 +347,8 @@ curl -X POST http://127.0.0.1:8000/api/feedback/ \
 ## 🐳 Docker Deployment
 
 <div align="center">
-<img src="images/docker-setup.png" alt="Docker Container Setup" width="600" style="border-radius: 8px; margin: 15px 0;"/>
-<p><em>All services running in Docker containers</em></p>
+<img src="Screenshot 2025-06-23 211054.png" alt="Docker Container Setup" width="600" style="border-radius: 8px; margin: 15px 0;"/>
+<p><em>Screenshot of the feedback list/table in the admin panel</em></p>
 </div>
 
 ### Using Docker Compose
@@ -417,8 +419,8 @@ This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for
 
 **Tushar** 
 
-[![Telegram](https://img.shields.io/badge/Telegram-@tushar__8982-2AABEE?style=for-the-badge&logo=telegram)](https://t.me/tushar_8982)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@tushar__8982-2AABEE?style=for-the-badge&logo=telegram)](https://t.me/@Tushar_khandelwal77)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail)](mailto:tusharkhandelwal48@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tushar8982-181717?style=for-the-badge&logo=github)](https://github.com/Tushar8982)
 
 **Project Link:** [https://github.com/Tushar8982/Feedback_system](https://github.com/Tushar8982/Feedback_system)
