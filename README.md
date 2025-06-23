@@ -250,11 +250,11 @@ TELEGRAM_BOT_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
 
 ---
 
-## 🔌 API Documentation
+## 🔌 Database 
 
 <div align="center">
 <img src="Screenshot 2025-06-23 212859.png" alt="API Testing with Postman" width="700" style="border-radius: 8px; margin: 15px 0;"/>
-<p><em>Using The Database as supabase</em></p>
+<p><em>Using Database as supabase</em></p>
 </div>
 
 ### Authentication
@@ -344,7 +344,7 @@ curl -X POST http://127.0.0.1:8000/api/feedback/ \
 
 ---
 
-## 🐳 Docker Deployment
+## 🐳 Feedback List
 
 <div align="center">
 <img src="Screenshot 2025-06-23 211054.png" alt="Docker Container Setup" width="600" style="border-radius: 8px; margin: 15px 0;"/>
